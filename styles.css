@@ -1,0 +1,33 @@
+html{
+    background-color: black;
+}
+h1{
+    color: #ccc;
+}
+
+.sub{
+    color: #ccc;
+    border: solid;
+    border-width: 2px;
+  
+}
+
+.subs{
+    color: #ccc;
+    border: solid;
+    border-width: 2px;
+    
+}
+
+.nome{
+    color: #ff0095;
+    padding: 20px;
+    margin: 20px;
+    
+}
+.nomes{
+    color: cyan;
+    padding: 20px;
+    margin: 20px;
+
+}
